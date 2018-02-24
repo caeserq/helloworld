@@ -1,2 +1,2 @@
 # helloworld
-just a repository
+The goals of this year:english;python;test.
